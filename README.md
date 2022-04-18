@@ -17,5 +17,16 @@ The two CSV files naming movies and credits have been taken from the website Kag
 <br> 
 Kaggle Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
 
+# Pipeline of the project
+1. Data Acquisition 
+2. Data Processing
+3. Data Modeling
+4. Execution
+5. Deployment
+
+# Predicted Output
+
+The movie recommender predicts the top five related movies with the input given by the user. We trained our dataset from the past and applied it to models which are based on cosine similarity. The algorithm will generate the most similar five movies and print them to the user. It streamlines the data science process so that users get high-quality predictions in a fraction of the time it took using traditional methods, allowing them to more quickly implement those predictions and see the impact on their bottom line.
+
 
 
