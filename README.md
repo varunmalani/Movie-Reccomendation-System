@@ -24,7 +24,7 @@ Kaggle Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 4. Execution
 5. Deployment
 
-# Architectre / Model
+# Architecture / Model
 
 <img width="963" alt="image" src="https://user-images.githubusercontent.com/51241123/163738726-0544d064-3684-4ead-b721-dad1a594ebff.png">
 
