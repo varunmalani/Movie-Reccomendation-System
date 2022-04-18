@@ -24,6 +24,11 @@ Kaggle Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 4. Execution
 5. Deployment
 
+# Architectre / Model
+
+<img width="963" alt="image" src="https://user-images.githubusercontent.com/51241123/163738726-0544d064-3684-4ead-b721-dad1a594ebff.png">
+
+
 # Predicted Output
 
 The movie recommender predicts the top five related movies with the input given by the user. We trained our dataset from the past and applied it to models which are based on cosine similarity. The algorithm will generate the most similar five movies and print them to the user. It streamlines the data science process so that users get high-quality predictions in a fraction of the time it took using traditional methods, allowing them to more quickly implement those predictions and see the impact on their bottom line.
@@ -33,5 +38,8 @@ The movie recommender predicts the top five related movies with the input given 
 - Stemming - https://www.nltk.org/howto/stem.html
 - CountVectorizer - https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
 
+# Sample Output
+
+<img width="253" alt="image" src="https://user-images.githubusercontent.com/51241123/163738678-3e96dbf8-5472-4908-b577-9ef6dfc6959b.png">
 
 
