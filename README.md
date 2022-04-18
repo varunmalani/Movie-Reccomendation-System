@@ -28,5 +28,10 @@ Kaggle Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 The movie recommender predicts the top five related movies with the input given by the user. We trained our dataset from the past and applied it to models which are based on cosine similarity. The algorithm will generate the most similar five movies and print them to the user. It streamlines the data science process so that users get high-quality predictions in a fraction of the time it took using traditional methods, allowing them to more quickly implement those predictions and see the impact on their bottom line.
 
+# References
+- Cosine Similarity - https://towardsdatascience.com/understanding-cosine-similarity-and-its-application-fd42f585296a
+- Stemming - https://www.nltk.org/howto/stem.html
+- CountVectorizer - https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+
 
 
