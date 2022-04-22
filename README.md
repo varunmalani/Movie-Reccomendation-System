@@ -26,7 +26,8 @@ Kaggle Link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 # Architecture / Model
 
-<img width="963" alt="image" src="https://user-images.githubusercontent.com/51241123/163738726-0544d064-3684-4ead-b721-dad1a594ebff.png">
+<img width="1238" alt="image" src="https://user-images.githubusercontent.com/51241123/164583178-6752a9b4-6bfc-4f61-9e83-259b7927a129.png">
+
 
 
 # Predicted Output
@@ -40,6 +41,7 @@ The movie recommender predicts the top five related movies with the input given 
 
 # Sample Output
 
-<img width="253" alt="image" src="https://user-images.githubusercontent.com/51241123/163738678-3e96dbf8-5472-4908-b577-9ef6dfc6959b.png">
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/51241123/164582885-6f40b2f6-3c29-4c49-9f89-08717ccbb35f.png">
+
 
 
