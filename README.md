@@ -1,7 +1,5 @@
 # Movie-Reccomendation-System
 
-Varun Malani - RA1911032010010, Karthik Nelanti - RA1911032010012
-
 # Problem Statement
 
 Over the years, there has been a rise in the population switching to OTT platforms for watching movies. Hence many companies are using and updating their machine learning model for recommending movies to their customers. The current methods are complex and are not up to the mark and hence not dependable.
